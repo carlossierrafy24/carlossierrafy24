@@ -93,4 +93,4 @@
 ---
 ### 🧠 Quote that defines me
 
-> _“I’m not a genius, I just Google really well and stay dangerously curious.” – Me_
+> _“I’m not a genius, I just Google really well and stay dangerously curious.”_
