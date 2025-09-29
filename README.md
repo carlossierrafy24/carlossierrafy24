@@ -17,51 +17,57 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/javascript.svg" height="40" alt="JavaScript"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/typescript.svg" height="40" alt="TypeScript"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/python.svg" height="40" alt="Python"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/csharp.svg" height="40" alt="C#"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/php.svg" height="40" alt="PHP"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/kotlin.svg" height="40" alt="Kotlin"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/swift.svg" height="40" alt="Swift"/>
+</p>
 
----
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/react.svg" height="40" alt="React"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/nextjs.svg" height="40" alt="Next.js"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/redux.svg" height="40" alt="Redux"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/materialui.svg" height="40" alt="MaterialUI"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/tailwind.svg" height="40" alt="TailwindCSS"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/expo.svg" height="40" alt="Expo"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/gulp.svg" height="40" alt="Gulp"/>
+</p>
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+<p align="center">
+  <!-- Backend & Cloud -->
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/nodejs.svg" height="40" alt="Node.js"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/express.svg" height="40" alt="Express"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/dotnet.svg" height="40" alt=".NET"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/graphql.svg" height="40" alt="GraphQL"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/gcp.svg" height="40" alt="GCP"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/firebase.svg" height="40" alt="Firebase"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/aws.svg" height="40" alt="AWS"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/azure.svg" height="40" alt="Azure"/>
+</p>
 
----
+<p align="center">
+  <!-- Databases -->
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/mysql.svg" height="40" alt="MySQL"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/mongodb.svg" height="40" alt="MongoDB"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/postgresql.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/redis.svg" height="40" alt="Redis"/>
+</p>
 
-### 🖥️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+<p align="center">
+  <!-- Tools & Testing -->
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/docker.svg" height="40" alt="Docker"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/jest.svg" height="40" alt="Jest"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/cypress.svg" height="40" alt="Cypress"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/jenkins.svg" height="40" alt="Jenkins"/>
+  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/powerbi.svg" height="40" alt="Power BI"/>
+</p>
 
----
-
-### 🧱 Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-### 🧪 Testing
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-
----
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
