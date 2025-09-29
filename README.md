@@ -92,7 +92,7 @@
 
 ## 📫 How to reach me?
 
-- 📞 Call me: <a href="call:573058238019" />  
+- 📞 Call me: <a href="call:573058238019" >call</a>  
 - 📧 Email me: carlossierrafy@gmail.com  
 - 💼 LinkedIn: [carlossierrafy](https://www.linkedin.com/in/carlossierrafy)
 
