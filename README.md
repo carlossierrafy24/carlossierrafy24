@@ -19,55 +19,54 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/javascript.svg" height="40" alt="JavaScript"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/typescript.svg" height="40" alt="TypeScript"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/python.svg" height="40" alt="Python"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/csharp.svg" height="40" alt="C#"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/php.svg" height="40" alt="PHP"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/kotlin.svg" height="40" alt="Kotlin"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/swift.svg" height="40" alt="Swift"/>
+  <a href="https://github.com/microsoft/TypeScript" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/typescript.svg" height="40" alt="TypeScript"/></a>
+  <a href="https://github.com/python/cpython" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/python.svg" height="40" alt="Python"/></a>
+  <a href="https://github.com/dotnet/csharplang" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/csharp.svg" height="40" alt="C#"/></a>
+  <a href="https://github.com/php/php-src" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/php.svg" height="40" alt="PHP"/></a>
+  <a href="https://github.com/JetBrains/kotlin" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/kotlin.svg" height="40" alt="Kotlin"/></a>
+  <a href="https://github.com/apple/swift" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/swift.svg" height="40" alt="Swift"/></a>
+  <a href="https://github.com/tc39" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/languages/javascript.svg" height="40" alt="JavaScript"/></a>
 </p>
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/react.svg" height="40" alt="React"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/nextjs.svg" height="40" alt="Next.js"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/redux.svg" height="40" alt="Redux"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/materialui.svg" height="40" alt="MaterialUI"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/tailwind.svg" height="40" alt="TailwindCSS"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/expo.svg" height="40" alt="Expo"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/gulp.svg" height="40" alt="Gulp"/>
+  <a href="https://github.com/facebook/react" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/react.svg" height="40" alt="React"/></a>
+  <a href="https://github.com/vercel/next.js" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/nextjs.svg" height="40" alt="Next.js"/></a>
+  <a href="https://github.com/reduxjs/redux" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/redux.svg" height="40" alt="Redux"/></a>
+  <a href="https://github.com/mui/material-ui" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/materialui.svg" height="40" alt="MaterialUI"/></a>
+  <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/tailwind.svg" height="40" alt="TailwindCSS"/></a>
+  <a href="https://github.com/expo/expo" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/expo.svg" height="40" alt="Expo"/></a>
+  <a href="https://github.com/gulpjs/gulp" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/frontend/gulp.svg" height="40" alt="Gulp"/></a>
 </p>
 
 <p align="center">
   <!-- Backend & Cloud -->
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/nodejs.svg" height="40" alt="Node.js"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/express.svg" height="40" alt="Express"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/dotnet.svg" height="40" alt=".NET"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/graphql.svg" height="40" alt="GraphQL"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/gcp.svg" height="40" alt="GCP"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/firebase.svg" height="40" alt="Firebase"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/aws.svg" height="40" alt="AWS"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/azure.svg" height="40" alt="Azure"/>
+  <a href="https://github.com/nodejs/node" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/nodejs.svg" height="40" alt="Node.js"/></a>
+  <a href="https://github.com/expressjs/express" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/express.svg" height="40" alt="Express"/></a>
+  <a href="https://github.com/dotnet/runtime" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/dotnet.svg" height="40" alt=".NET"/></a>
+  <a href="https://github.com/graphql/graphql-js" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/backend/graphql.svg" height="40" alt="GraphQL"/></a>
+  <a href="https://github.com/firebase/firebase-js-sdk" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/firebase.svg" height="40" alt="Firebase"/></a>
+  <a href="https://github.com/googleapis/google-cloud-go" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/gcp.svg" height="40" alt="GCP"/></a>
+  <a href="https://github.com/aws/aws-sdk-js" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/aws.svg" height="40" alt="AWS"/></a>
+  <a href="https://github.com/Azure/azure-sdk-for-js" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/cloud/azure.svg" height="40" alt="Azure"/></a>
 </p>
 
 <p align="center">
   <!-- Databases -->
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/mysql.svg" height="40" alt="MySQL"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/mongodb.svg" height="40" alt="MongoDB"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/postgresql.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/redis.svg" height="40" alt="Redis"/>
+  <a href="https://github.com/mysql/mysql-server" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/mysql.svg" height="40" alt="MySQL"/></a>
+  <a href="https://github.com/mongodb/mongo" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/mongodb.svg" height="40" alt="MongoDB"/></a>
+  <a href="https://github.com/postgres/postgres" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/postgresql.svg" height="40" alt="PostgreSQL"/></a>
+  <a href="https://github.com/redis/redis" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/databases/redis.svg" height="40" alt="Redis"/></a>
 </p>
 
 <p align="center">
   <!-- Tools & Testing -->
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/docker.svg" height="40" alt="Docker"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/jest.svg" height="40" alt="Jest"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/cypress.svg" height="40" alt="Cypress"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/jenkins.svg" height="40" alt="Jenkins"/>
-  <img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/powerbi.svg" height="40" alt="Power BI"/>
+  <a href="https://github.com/docker" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/docker.svg" height="40" alt="Docker"/></a>
+  <a href="https://github.com/jestjs/jest" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/jest.svg" height="40" alt="Jest"/></a>
+  <a href="https://github.com/cypress-io/cypress" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/cypress.svg" height="40" alt="Cypress"/></a>
+  <a href="https://github.com/jenkinsci/jenkins" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/jenkins.svg" height="40" alt="Jenkins"/></a>
+  <a href="https://github.com/microsoft/PowerBI-Visuals" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/powerbi.svg" height="40" alt="Power BI"/></a>
 </p>
-
 
 ---
 
