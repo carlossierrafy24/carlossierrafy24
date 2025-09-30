@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Carlos Sierra</h1>
+<h1 align="center">Hi, I'm Carlos Sierra</h1>
 
 <p align="center">
   🌍 Full-stack Developer | 💻 Passionate about Web & Mobile | 📈 Building meaningful digital experiences
@@ -8,10 +8,8 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm a Software Engineer with **5+ years of experience** in web and mobile development.
-- 🌱 Currently learning **GraphQL** and exploring **Clean Architecture** and **Design Systems**.
-- 🧠 Enthusiastic about **Open Source**, **A.I. integration**, and scalable tech solutions.
-- 🧩 Building my **developer portfolio** to showcase my journey and recent work.
+👨‍💻 Software Engineer with over 5 years of professional experience in the design and development of multiplatfom applications.
+🧠 Strong interest in Open Source initiatives, artificial intelligence integration, and the implementation of high-performance technologies.
 
 ---
 
@@ -65,7 +63,7 @@
   <a href="https://github.com/jestjs/jest" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/jest.svg" height="40" alt="Jest"/></a>
   <a href="https://github.com/cypress-io/cypress" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/cypress.svg" height="40" alt="Cypress"/></a>
   <a href="https://github.com/jenkinsci/jenkins" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/jenkins.svg" height="40" alt="Jenkins"/></a>
-  <a href="https://github.com/microsoft/PowerBI-Visuals" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/powerbi.svg" height="40" alt="Power BI"/></a>
+  <a href="[https://github.com/microsoft/PowerBI-Visuals](https://www.microsoft.com/es-es/power-platform/products/power-bi)" target="_blank"><img src="https://carlossierrafy24.github.io/dev-utils/icons/tools/powerbi.svg" height="40" alt="Power BI"/></a>
 </p>
 
 ---
@@ -100,11 +98,21 @@
 
 ---
 
-## 📫 How to reach me?
-
-- 📞 Call me: <a href="call:573058238019" >call</a>  
-- 📧 Email me: carlossierrafy@gmail.com  
-- 💼 LinkedIn: [carlossierrafy](https://www.linkedin.com/in/carlossierrafy)
+## 📫 How to reach me
+<p align="center">
+  <a href="tel:+573058238019" target="_blank" style="text-decoration:none;">
+    <img src="https://carlossierrafy24.github.io/dev-utils/icons/utils/call.svg" alt="Phone" height="30"/>
+  </a>  
+  <a href="https://wa.me/573058238019?text=Hi,%20Carlos" target="_blank" style="text-decoration:none;">
+    <img src="https://carlossierrafy24.github.io/dev-utils/icons/utils/whatsapp.svg" alt="WhatsApp" height="30"/>
+  </a>  
+  <a href="mailto:carlossierrafy@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30"/>
+  </a>  
+  <a href="https://www.linkedin.com/in/carlossierrafy" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>
+  </a>
+</p>
 
 ---
 ### 🧠 Quote that defines me
