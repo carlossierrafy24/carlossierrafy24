@@ -81,11 +81,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlossierrafy24&show_icons=true&theme=tokyonight" alt="Carlos's GitHub stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=carlossierrafy24&show_icons=true&theme=tokyonight" 
+    alt="Carlos's GitHub stats"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossierrafy24&layout=compact&langs_count=8&theme=tokyonight" 
+    alt="Most Used Languages"
+    width="48%"
+  />
 </p>
+
 
 ---
 
