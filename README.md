@@ -87,15 +87,16 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=carlossierrafy24&show_icons=true&theme=tokyonight" 
     alt="Carlos's GitHub stats"
-    width="48%"
+    width="54.5%"
+    height="400"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossierrafy24&layout=compact&langs_count=8&theme=tokyonight" 
     alt="Most Used Languages"
-    width="48%"
+    width="36%"
+    height="400"
   />
 </p>
-
 
 ---
 
