@@ -58,6 +58,7 @@ Software Engineer with over 5 years of professional experience in the design and
 - MyNotes: Mobile application built with React Native, providing agenda and note-taking features, enhanced with AI-driven time management recommendations.
 - KitchenInventory **(WIP)**: Personal kitchen assistant app that helps track pantry inventory, suggests recipes, and sends expiration reminders.
 - BookWhisperer **(WIP)**: Experimental project exploring AI-powered book analysis, enabling interactive conversations with custom agent.
+- MyHotWheelsApp (WIP): Mobile application built with React Native that uses OCR to scan and recognize Hot Wheels car cards, allowing users to manage a personalized digital collection with images, rarity info, and filtering options.
 
 ## 📊 GitHub Stats & Languages
 
